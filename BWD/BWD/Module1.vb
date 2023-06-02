@@ -1,4 +1,6 @@
-﻿Imports System.Reflection
+'' Based on https://github.com/NYAN-x-CAT/Disable-Windows-Defender
+
+Imports System.Reflection
 
 Module Module1
 
