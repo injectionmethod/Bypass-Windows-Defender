@@ -1,0 +1,12 @@
+C:\Users\Fraser\source\repos\BWD\BWD\bin\Debug\BWD.exe.config
+C:\Users\Fraser\source\repos\BWD\BWD\bin\Debug\BWD.exe
+C:\Users\Fraser\source\repos\BWD\BWD\bin\Debug\BWD.pdb
+C:\Users\Fraser\source\repos\BWD\BWD\bin\Debug\BWD.xml
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.vbproj.AssemblyReference.cache
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.Resources.resources
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.vbproj.GenerateResource.cache
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.vbproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.exe
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.xml
+C:\Users\Fraser\source\repos\BWD\BWD\obj\Debug\BWD.pdb
